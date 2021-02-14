@@ -32,3 +32,12 @@
 .bianca{
     color:tomato
 }
+
+table{
+    color: seagreen;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    border-style: dashed;
+    
+}
